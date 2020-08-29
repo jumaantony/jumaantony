@@ -71,6 +71,7 @@ color: gold;
 /* body start */
 .Img-header{
   background-image: url(../images/blog-header.jpg);
+  background-attachment: fixed;
   background-size: cover;
   height: 300px;
   width: 100%;

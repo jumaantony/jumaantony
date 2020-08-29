@@ -70,9 +70,13 @@
   /* menu ending */
   
   /* body start */
+  body{
+    
+  }
 
   .Img-header{
     background-image: url(../images/project-header.jpg);
+    background-attachment: fixed;
     background-size: cover;
     height: 350px;
     width: 100%;
@@ -90,6 +94,8 @@
   .my-work{
     text-transform: uppercase;
     text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 
   @media(min-width: 700px){
@@ -104,6 +110,14 @@
     }
   }
 
+  .project-cont{
+    background-image: url(../images/code.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 10px;
+  }
+
   .proj-cont{
     margin-left: 20px;
     margin-top: 10px;
@@ -113,35 +127,42 @@
   }
 
   .featured{
-    width: 80%;
+    width: 100%;
     border-radius: 15px;
-    margin-left: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
   
-  h1 {
+  .proj-head {
     text-decoration: none;
     text-transform: capitalize;
     padding: 5px;
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
   }
 
   .description{
     padding: 5px;
     text-align: justify;
+    background-color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
   }
 
   .view-proj{
     margin-left: 10px;
     padding: 7px;
-    color: white;
-    background-color: #050349;
+    color: #050349;
+    background-color:white ;
     font-size: 16px;
     border-radius: 5px;
     text-transform: capitalize;
   }
 
   .view-proj:hover{
-    color: #050349 ;
-    background-color: white;
+    color: white ;
+    background-color: #050349;
     border: #050349 solid 2px;
     padding: 5px;
     font-size: 18px;
