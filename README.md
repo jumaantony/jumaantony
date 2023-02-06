@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jumaanton
 - 👀 I’m interested in web development with Python-Django
-- 🌱 I’m currently learning React and Flutter
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on project
 <!-- - 📫 How to reach me  -->
 
