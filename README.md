@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> 👋 Hi, I’m @Jumaanton<br>👀  I’m interested in web development with Python-Django, TypeScript-NestJs<br> 🌱I’m currently learning React<br>💞️ I’m looking to collaborate on django/python/react/nestJs projects
+<br> 👋 Hi, I’m @Jumaanton<br>👀  I’m interested in web development with Python-Django, TypeScript-NestJs<br> 🌱I’m currently learning React<br>💞️ I’m looking to collaborate on django/python/react/nestJs projects <br> I love Data ETL too using n8n as my automation tool
 
 
 ## 🌐 Socials:
